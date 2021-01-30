@@ -1,4 +1,4 @@
-![.github/workflows/codebuild.yml](https://github.com/360cloudhub/cloudrundemos/workflows/.github/workflows/codebuild.yml/badge.svg?event=label)  ![Build and Deploy to Cloud Run](https://github.com/360cloudhub/cloudrundemos/workflows/Build%20and%20Deploy%20to%20Cloud%20Run/badge.svg)
+![Build and Deploy to Cloud Run](https://github.com/360cloudhub/cloudrundemos/workflows/Build%20and%20Deploy%20to%20Cloud%20Run/badge.svg)
 
 
 
