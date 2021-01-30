@@ -8,7 +8,7 @@ def index():
 def howdy():
     name = request.form['name']
     return """
-    <h1>Your are the best!!<h1>
+    <h1>Your are the best. Let's talk business!!<h1>
     <h1>{}<h1>
     """.format(name)
 if __name__ == '__main__':
